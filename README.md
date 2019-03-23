@@ -19,6 +19,6 @@ Further thanks to the National Center for Education Statistics who supplied the 
 
 ## percent_bachelors.ipynb
 
-[For those who don't have and don't want Jupyter notebooks](https://nbviewer.jupyter.org/github/garethhay/playing_with_matplotlib/percent_bachelors.ipynb).
+[For those who don't have and don't want Jupyter notebooks](https://nbviewer.jupyter.org/github/garethhay/playing_with_matplotlib/blob/master/percent_bachelors.ipynb).
 
 Please note I am making no assumptions nor any conclusions as I have not studied this data, it's actual original source, the source I got it from or even looked at most of the dataset itself. It is just some data to make graphs with and part of a tutorial.
